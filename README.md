@@ -17,8 +17,8 @@ This is a Silly Simple Math Tutor for young children.
 
 
 ## Maintainers
-[@dejohns2](https://github.com/dejohns2) Debbie Johnson  
-[@princess](https://github.com/dejohns2) Princess Debbie
+[@Cameron](https://github.com/capacha1/capacha1) Cameron Pacha
+[@Fatima](https://github.com/dejohns2) Princess Debbie
 
 
 ## New Concepts Used
@@ -31,34 +31,33 @@ This is a Silly Simple Math Tutor for young children.
 
 ## Console Output Testing Example
 ```
-***********************************************************
-      __  __       _   _       _____      _
-     |  \/  | __ _| |_| |__   |_   _|   _| |_ ___  _ __
-     | |\/| |/ _` | __| '_ \    | || | | | __/ _ \| '__|
-     | |  | | (_| | |_| | | |   | || |_| | || (_) | |
-     |_|  |_|\__,_|\__|_| |_|   |_| \__,_|\__\___/|_|
+Welcome to the Silly Simple Math Professor V1
 
-***********************************************************
-*       Welcome to the Silly Simple Math Tutor            *
-***********************************************************
+        ----------------------------------------------------------------------
+        __  __       _   _       ____             __
+       |  \/  | __ _| |_| |__   |  _ \ _ __ ___  / _| ___  ___ ___  ___  _ __
+       | |\/| |/ _` | __| '_ \  | |_) | '__/ _ \| |_ / _ \/ __/ __|/ _ \| '__|
+       | |  | | (_| | |_| | | | |  __/| | | (_) |  _|  __/\__ \__ \ (_) | |
+       |_|  |_|\__,_|\__|_| |_| |_|   |_|  \___/|_|  \___||___/___/\___/|_|
+       ----------------------------------------------------------------------
+Fun Math Facts:
+Zero is the only number that can not be represented by Roman Numerals.
+The word hundred is the only number word with its letters in alphabetical order.
+Pie never ends.
+1 is not a prime number.
+-----------------------------------------------------------------------------
+What is your name:
+Cameron Pacha
 
-Fun math facts:
+Welcome, Rob to the Math Professor V1!
 
-        * Math teachers have problems.
-        * Math is the only subject that counts.
-        * If it seems easy, you're doing it wrong.
-        * It's all fun and games until someone divides by zero!
+5+3=
+8
 
-***********************************************************
-
-What is your name? Debbie
-Welcome Debbie to the Silly Simply Math Tutor!
-
-What does 2 + 3 = 5
-
-Sorry, this is all the program does for the moment.
-Version 2 is coming soon...
+That's all for this version of the Math Professor V1.
+Version 2 is coming whenever the next assignment is due...
 End of program.
+
 
 ```
 
