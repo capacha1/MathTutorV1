@@ -18,7 +18,6 @@ This is a Silly Simple Math Tutor for young children.
 
 ## Maintainers
 [@Cameron](https://github.com/capacha1/capacha1) Cameron Pacha
-[@Fatima](https://github.com/dejohns2) Princess Debbie
 
 
 ## New Concepts Used
